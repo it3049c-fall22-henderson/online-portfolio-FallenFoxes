@@ -4,9 +4,9 @@ Portfolio Assignment
 
 Instructions to this assignment can be found [here](https://it3049c.github.io/Material/Assignments/1.Online_Portfolio/).
 ## Checklist:
-- [ ] update the assignment checks above to the correct link
+- [x] update the assignment checks above to the correct link
 - [x] update the assignment checks above to the correct link. - Done Automatically
-- [ ] fill out the self evaluation and Reflection
+- [x] fill out the self evaluation and Reflection
 - [ ] submit the repository and the hosted github pages to Canvas
 
 ## Self Grading Guide
